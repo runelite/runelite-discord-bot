@@ -1,0 +1,29 @@
+{
+  "name": "runelite-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/app.js",
+  "scripts": {
+    "start": "node lib/app.js",
+    "test": "standard",
+    "fix": "standard --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deathbeam/runelite-discord-bot.git"
+  },
+  "author": "Tomas Slusny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deathbeam/runelite-discord-bot/issues"
+  },
+  "homepage": "https://github.com/deathbeam/runelite-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "level": "^4.0.0",
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
