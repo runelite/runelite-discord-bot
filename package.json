@@ -20,8 +20,8 @@
   "homepage": "https://github.com/deathbeam/runelite-discord-bot#readme",
   "dependencies": {
     "discord.js": "^11.3.2",
-    "level": "^4.0.0",
-    "log-driver": "^1.2.7",
+    "littledb": "^1.0.4",
+    "loglevel": "^1.6.1",
     "node-fetch": "^2.1.2"
   },
   "devDependencies": {
