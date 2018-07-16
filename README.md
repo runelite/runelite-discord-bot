@@ -6,3 +6,5 @@
 3. Set env `TWITCH_CLIENT_ID` to your Twitch Application Client ID
 4. Run `npm install`
 5. Run `npm start`
+
+![preview](https://i.imgur.com/45plIKX.png)
