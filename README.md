@@ -5,6 +5,6 @@
 2. Set env `DISCORD_TOKEN` to your Discord bot token
 3. Set env `TWITCH_CLIENT_ID` to your Twitch Application Client ID
 4. Run `npm install`
-5. Run `npm start`
+5. Run `LOG_LEVEL=debug npm start` (or without LOG_LEVEL to default to 'info')
 
 ![preview](https://i.imgur.com/45plIKX.png)
