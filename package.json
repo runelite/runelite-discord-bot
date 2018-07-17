@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deathbeam/runelite-discord-bot.git"
+    "url": "git+https://github.com/runelite/runelite-discord-bot.git"
   },
   "author": "Tomas Slusny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/deathbeam/runelite-discord-bot/issues"
+    "url": "https://github.com/runelite/runelite-discord-bot/issues"
   },
-  "homepage": "https://github.com/deathbeam/runelite-discord-bot#readme",
+  "homepage": "https://github.com/runelite/runelite-discord-bot#readme",
   "dependencies": {
     "discord.js": "^11.3.2",
     "littledb": "^1.0.5",
