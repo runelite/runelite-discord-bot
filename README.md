@@ -5,6 +5,7 @@
 2. Set env `GITHUB_TOKEN` to your personal GitHub API token
 3. Set env `DISCORD_TOKEN` to your Discord bot token
 4. Set env `TWITCH_CLIENT_ID` to your Twitch Application Client ID
-5. Run `LOG_LEVEL=debug npm start` (or without LOG_LEVEL to default to 'info')
+5. (optional) Set env `LOG_LEVEL` to `debug` if you want debug logging
+6. Run `node lib/app.js` (or without LOG_LEVEL to default to 'info')
 
 ![preview](https://i.imgur.com/45plIKX.png)

@@ -4,9 +4,7 @@
   "description": "",
   "main": "lib/app.js",
   "scripts": {
-    "start": "node lib/app.js",
-    "test": "standard",
-    "fix": "standard --fix"
+    "test": "standard"
   },
   "repository": {
     "type": "git",
