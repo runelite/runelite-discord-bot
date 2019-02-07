@@ -65,3 +65,4 @@ typings/
 
 # database
 db.json
+gh_users.json
