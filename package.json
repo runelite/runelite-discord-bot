@@ -1,5 +1,5 @@
 {
-  "name": "runelite-discord-bot",
+  "name": "runeliteplus-discord-bot",
   "version": "1.0.0",
   "description": "",
   "main": "lib/app.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/runelite/runelite-discord-bot.git"
+    "url": "git+https://github.com/runelite-extended/runelite-discord-bot.git"
   },
   "author": "Tomas Slusny",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/runelite/runelite-discord-bot/issues"
+    "url": "https://github.com/runelite-extended/runelite-discord-bot/issues"
   },
-  "homepage": "https://github.com/runelite/runelite-discord-bot#readme",
+  "homepage": "https://github.com/runelite-extended/runelite-discord-bot#readme",
   "dependencies": {
     "bufferutil": "^4.0.0",
     "discord.js": "^11.4.2",
