@@ -1,4 +1,4 @@
-![](https://runelite.net/img/logo.png)
+![](https://i.imgur.com/OVRdQBz.png)
 # runelite-discord-bot [![Travis](https://img.shields.io/travis/runelite-extended/runelite-discord-bot.svg)](https://travis-ci.org/runelite-extended/runeliteplus-discord-bot) [![Discord](https://img.shields.io/discord/301497432909414422.svg)](https://discord.gg/HN5gf3m)
 
 1. Run `npm install`
