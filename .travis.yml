@@ -1,8 +1,0 @@
-language: node_js
-node_js:
-  - "6"
-  - "9"
-# Cache node_modules between builds
-cache:
-  directories:
-    - "node_modules"
