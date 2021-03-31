@@ -22,7 +22,8 @@
     "heapdump": "^0.3.15",
     "littledb": "^1.0.5",
     "loglevel": "^1.7.1",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "pretty-ms": "^7.0.1"
   },
   "devDependencies": {
     "standard": "^16.0.3"
