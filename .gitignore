@@ -67,3 +67,4 @@ typings/
 db.json
 gh_users.json
 filtered_words.json
+roles.json
