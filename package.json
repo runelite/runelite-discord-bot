@@ -20,8 +20,6 @@
   "homepage": "https://github.com/runelite/runelite-discord-bot#readme",
   "dependencies": {
     "@discordjs/builders": "^0.13.0",
-    "@discordjs/rest": "^0.4.1",
-    "discord-api-types": "^0.32.0",
     "discord.js": "^13.6.0",
     "littledb": "^1.0.7",
     "loglevel": "^1.8.0",
